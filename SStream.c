@@ -14,7 +14,7 @@
 #include <limits.h>
 #endif
 #include <string.h>
-
+#include "myinittypes.h"
 #include <platform.h>
 
 #include "SStream.h"

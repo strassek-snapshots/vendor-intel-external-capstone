@@ -22,7 +22,7 @@
 #if defined(CAPSTONE_HAS_OSXKERNEL)
 #include <Availability.h>
 #endif
-
+#include "../../myinittypes.h"
 #include <string.h>
 
 #include "../../cs_priv.h"

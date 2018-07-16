@@ -28,6 +28,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #endif
+#include "../../myinittypes.h"
 #include <string.h>
 
 #include "../../utils.h"
